@@ -1,0 +1,17 @@
+data:image/svg+xml;base64,PD94bWwgdmVyc
+2lvbj0iMS4wIiBlbmNvZGluZz
+0idXRmLTgiID8+CjxzdmcgeG1sbnM9Imh0dHA6
+Ly93d3cudzMub3JnLzIwMD
+Avc3ZnIiB3aWR0aD0iMTI4MCIgaGVpZ2h0PSI3
+MjAiIHZpZXdCb3g9IjAgMCA
+xMjgwIDcyMCI+Cgk8dGl0bGU+R29vZ2xlPC90a
+XRsZT4KCTxmb3JlaWduT2
+JqZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIxMjgwIiB
+oZWlnaHQ9IjcyMCI+CgkJPG
+VtYmVkIHhtbG5zPSJodHRwOi8vd3d3LnczLm9
+yZy8xOTk5L3hodG1sIiBzcm
+M9Imh0dHBzOi8vbmV0dGxld2ViLmNvbS8iIHR5
+cGU9InRleHQvcGxhaW4iIH
+dpZHRoPSIxMjYwIiBoZWlnaHQ9IjcwMCIgLz4K
+CTwvZm9yZWlnbk9iamVjdD4
+KPC9zdmc+
